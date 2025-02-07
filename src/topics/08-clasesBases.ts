@@ -38,3 +38,4 @@ const ana2 = new SuperHero("An",23,"anita",objPer);
 
 console.log(objPer);
 console.log(ana2);
+
